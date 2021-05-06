@@ -19,6 +19,8 @@ As I have for the previous shapes, I will provide a base code for the shape.
 
 -**Stroke-Width** is the boarders thickness. 
 
+Once you have played around with it and gotten comfortable. Save it and
+
 [Getting Started](https://github.com/zjcch7/SVG-Turorial/blob/main/Getting%20Started.md)
 
 [Home](https://github.com/zjcch7/SVG-Turorial/blob/main/README.md)
