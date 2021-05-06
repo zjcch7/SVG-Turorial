@@ -19,6 +19,6 @@ Using the rgb gives you a wider variety of colors to pick from by changeing the 
 
 Play around with the numebrs, and when you get the hang of it, then save it and view it in the browser.
 
-[Getting Started]()
+[Getting Started](https://github.com/zjcch7/SVG-Turorial/blob/main/Getting%20Started.md)
 
 [Home](https://github.com/zjcch7/SVG-Turorial/blob/main/README.md)
