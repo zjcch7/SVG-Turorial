@@ -13,5 +13,5 @@ This tutorial is for those who are new to SVG graphics and want to get their foo
 
 [Rectangle](https://github.com/zjcch7/SVG-Turorial/blob/main/Rectangle.md)
 
-[Ellipse]()
+[Ellipse](https://github.com/zjcch7/SVG-Turorial/blob/main/Ellipse.md)
 
