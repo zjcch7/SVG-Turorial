@@ -21,4 +21,4 @@ you can change the hieght, width, the border, or color.
 When you are ready to view your masterpiece, save it and view in the browser of choice.
 
 
-[Getting Started]()
+[Getting Started](https://github.com/zjcch7/SVG-Turorial/blob/main/Getting%20Started.md)
