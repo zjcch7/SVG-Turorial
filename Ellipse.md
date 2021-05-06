@@ -21,5 +21,5 @@ As I have for the previous shapes, I will provide a base code for the shape.
 
 [Getting Started](https://github.com/zjcch7/SVG-Turorial/blob/main/Getting%20Started.md)
 
-[Home]()
+[Home](https://github.com/zjcch7/SVG-Turorial/blob/main/README.md)
 
