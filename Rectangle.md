@@ -1,6 +1,6 @@
 ## Basics Of Making A Rectangle
 
-To get you started on making your first rectangle, I have provided you with a stater code.
+The following code is an example of a Rectangle. Copy and paste it into your word editor.
 
 **< svg width="400" height="110" >
   < rect width="300" height="100" style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(600,300,0)" / >
