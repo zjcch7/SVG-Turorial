@@ -18,7 +18,7 @@ For all your SVG images. Once you have opened you text editor, go ahead and save
 
 -[Circle]()
 
--[rectangle]()
+-[rectangle](https://github.com/zjcch7/SVG-Turorial/blob/main/Rectangle.md)
 
 -[Ellipse]()
 
