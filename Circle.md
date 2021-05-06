@@ -1,7 +1,6 @@
 ## Basics Of Making A Circle
 
-To get you started on creating your first circle, I have provided you with an example code. This can work as a base line for further experamentation.
-you can change the hieght, width, the border, or color. 
+The following code is an example of an ellipse. Copy and paste it into your word editor. 
 
 **< svg height="100" width="100">
   < circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="yellow" / >
