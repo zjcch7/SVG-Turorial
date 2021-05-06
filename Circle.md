@@ -1,6 +1,6 @@
 ## Basics Of Making A Circle
 
-The following code is an example of an ellipse. Copy and paste it into your word editor. 
+The following code is an example of a Circle. Copy and paste it into your word editor. 
 
 **< svg height="100" width="100">
   < circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="yellow" / >
