@@ -6,4 +6,4 @@ This tutorial will give a brief idea of how to get started making SCG graphics u
 ### Audience 
 This tutorial is for those who are new to SVG graphics and want to get their foot in the door.
 
-[Getting Started](
+[Getting Started](https://github.com/zjcch7/SVG-Turorial/blob/main/Getting%20Started.md)
