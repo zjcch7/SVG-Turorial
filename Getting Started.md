@@ -14,6 +14,9 @@ There are many diffrent shapes and atributes that you can make, but in this tuto
 
 For all your SVG images, once you have opened you text editor, go ahead create a new file and save it as _name_.html. This will save it as a browser link. By doing this, it will highlight keywords and make it easier for you to type your code when making your graphics. 
 
+### Things You Can Do
+When making SVG graphics, you have control of everything. The color, shape, border/no border, border color. It is all customizable.  
+
 When you are ready, select a shape and begin. 
 
 ### Select A Shape
