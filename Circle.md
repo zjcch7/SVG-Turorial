@@ -4,7 +4,7 @@ To get you started on creating your first circle, I have provided you with an ex
 you can change the hieght, width, the border, or color. 
 
 **< svg height="100" width="100">
-  < circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" / >
+  < circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="yellow" / >
 < /svg >**
 
 -**x** and y are the circle's posistion on the page.
