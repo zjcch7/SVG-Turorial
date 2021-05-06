@@ -1,7 +1,7 @@
 ### What You Will Need
 Getting started in SVG is simple. All you need are the following
 
-A text editor(Notepad)
+A text editor(I use Notepad++)
   
 A browser(google)
 
