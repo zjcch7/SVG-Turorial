@@ -2,7 +2,7 @@
 #### BY Zachary Covington
 
 ### Description
-This tutorial will give a brief idea of how to get started making SCG graphics using a text editor.
+This tutorial will give a brief idea of how to get started making SVG graphics using a text editor.
 ### Audience 
 This tutorial is for those who are new to SVG graphics and want to get their foot in the door.
 
