@@ -11,3 +11,7 @@ This tutorial is for those who are new to SVG graphics and want to get their foo
 #### Skip Ahead
 [Circle](https://github.com/zjcch7/SVG-Turorial/blob/main/Circle.md)
 
+[Rectangle](https://github.com/zjcch7/SVG-Turorial/blob/main/Rectangle.md)
+
+[Ellipse]()
+
