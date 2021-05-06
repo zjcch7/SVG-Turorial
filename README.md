@@ -15,3 +15,5 @@ This tutorial is for those who are new to SVG graphics and want to get their foo
 
 [Ellipse](https://github.com/zjcch7/SVG-Turorial/blob/main/Ellipse.md)
 
+[Final](https://github.com/zjcch7/SVG-Turorial/blob/main/Final.md)
+
