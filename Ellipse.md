@@ -1,6 +1,6 @@
 ## Basics Of Making An Ellipse
 
-The following code is an example of an ellipse. Copy and paste it into your word editor. 
+The following code is an example of an Ellipse. Copy and paste it into your word editor. 
 
 **< svg height="140" width="500" >
   <ellipse cx="200" cy="80" rx="100" ry="50"
